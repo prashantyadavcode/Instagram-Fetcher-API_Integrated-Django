@@ -64,7 +64,7 @@ Linux/macOS (Cron Job)
 
 To schedule the fetching process at regular intervals, a cron job can be configured to run the fetch command at a specified time interval.
 
-8) Windows (Task Scheduler)
+Windows (Task Scheduler)
 
 The Task Scheduler can be used to run the fetch script periodically by creating a new scheduled task that executes the appropriate command.
 
